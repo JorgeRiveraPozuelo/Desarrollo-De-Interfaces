@@ -54,6 +54,8 @@ Este tipo de callouts no funcionan en GitHub, pero si en otras.
 > [!info] Nota informativa
 > Esto es una nota informativa
 
+## Esto es un texto preformateado y Código fuente
+
 ```
 Esto es un texto preformateado
 ```
