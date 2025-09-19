@@ -69,5 +69,36 @@ saludo = 'Hola Mundo!'
 print( saludo )
 
 ```
+## Imágenes 
 
+![Gatetes](https://purina.cl/sites/default/files/2025-04/razas-de-gatos.jpg)
+
+---
+
+## Menciones
+
+@github/rube19-hub
+
+
+Enlazo una nota al pie [^1]
+
+[^nota] Esta es otra nota
+
+|izquierda|medio|derecha|
+| :--- | :---: | ---: |
+| dato1 | dato2 | dato3 |
+| dato4 | dato5 | dato6 |
+
+
+<details>
+  <summary>Este es el resumen del desplegable</summary>
+  Un texto es una composición de signos codificados en un sistema de escritura que forma una unidad de sentido. También es una composición de caracteres ...
+</details>
+
+
+mermaid
+graph TD;
+  A-->B
+  B-->C
+  C-->A
 
