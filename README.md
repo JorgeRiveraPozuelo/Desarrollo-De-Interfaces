@@ -96,9 +96,9 @@ Enlazo una nota al pie [^1]
 </details>
 
 
-mermaid
+```mermaid
 graph TD;
   A-->B
   B-->C
   C-->A
-
+```
